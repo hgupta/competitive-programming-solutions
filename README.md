@@ -5,12 +5,12 @@ Solutions for various programming / coding problems as posted onr
 
 #### License
 
-[![CC BY-SA 4.0][cc-by-shield]][cc-by]{:target="blank"}
+[![CC BY-SA 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by]{:target:"blank"}.
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by].
 
-[![CC BY-SA 4.0][cc-by-image]][cc-by]{:target:"blank"}
+[![CC BY-SA 4.0][cc-by-image]][cc-by]
 
 [cc-by]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
